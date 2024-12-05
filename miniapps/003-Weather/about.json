@@ -1,0 +1,5 @@
+{
+  "name" : "Weather by City",
+  "short_description" : "Select a city name and get the Weather",
+  "required_modules" : "beatifulsoup4,requests"
+}

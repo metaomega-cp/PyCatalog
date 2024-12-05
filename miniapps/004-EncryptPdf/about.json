@@ -1,0 +1,5 @@
+{
+  "name" : "Encrypt Pdf",
+  "short_description" : "Add Password to PDF",
+  "required_modules" : "PyPDF2"
+}
